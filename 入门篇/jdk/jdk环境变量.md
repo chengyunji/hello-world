@@ -48,9 +48,10 @@ public class HelloWorld {
 按win+R组合键，输入cmd回车进入黑窗口，输入命令
 
 ```
+java -version
 javac HelloWorld.java
-
 java HelloWorld
-```
 
+```
+结果如图，说明你已经成功了！
 
